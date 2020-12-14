@@ -1,0 +1,48 @@
+﻿{
+    "Title": "Team Members",
+    "ColumnHeaders": [
+        "ID",
+        "Name",
+        "Role",
+        "Nickname",
+        "Animal"
+    ],
+    "Data": [
+        {
+            "ID": "001",
+            "Name": "John Doe",
+            "Role": "Engineer",
+            "Nickname": "KillerJoe",
+            "Animal": "Bird"
+        },
+        {
+            "ID": "023",
+            "Name": "Claire Dawn",
+            "Role": "Engineer",
+            "Nickname": "Claw",
+            "Animal": "Bird"
+        },
+        {
+            "ID": "012",
+            "Name": "Paul Beef",
+            "Role": "Designer",
+            "Nickname": "BeefyPaul",
+            "Animal": "Bird"
+        },
+        {
+            "ID": "056",
+            "Name": "Sally Sue",
+            "Role": "Artist",
+            "Nickname": "Sue5555",
+            "Animal": "Bird"
+        },
+        {
+            "ID": "02",
+            "Name": "Sall",
+            "Role": "Artist",
+            "Nickname": "Sue5555",
+            "Animal": "Bird"
+        }
+    ]
+
+}
